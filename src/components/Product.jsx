@@ -68,9 +68,6 @@ import {
   const Product = ({ item }) => {
     return (
       <Container>
-        <>
-        {console.log(item.img)};
-        </>
         <Circle />
         <Image src={item.img} />
         <Info>

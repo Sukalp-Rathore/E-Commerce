@@ -75,5 +75,3 @@ export const sliderItems = [
       img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
     },
   ] 
-
-console.log(sliderItems);
